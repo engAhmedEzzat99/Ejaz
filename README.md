@@ -1,2 +1,0 @@
-# Ejaz
-my website
